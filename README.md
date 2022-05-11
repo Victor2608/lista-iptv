@@ -1,1 +1,1 @@
-# lista-iptv
+#EXTM3U size="Medium"
