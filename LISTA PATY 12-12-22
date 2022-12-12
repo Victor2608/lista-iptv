@@ -1,0 +1,10 @@
+#EXTM3U size="big" 
+
+#EXTM3U size="big"
+#EXTINF:0 type="playlist" tvg-logo="https://pt.seaicons.com/wp-content/uploads/2015/10/Movies-icon.png",FILMES
+#EXTBG: #FF0000
+https://drive.google.com/uc?id=18f-5blg-0qQou34sHnEamOyG9WDVesTf&export=download 
+
+#EXTINF:0 type="playlist" tvg-logo="https://pt.seaicons.com/wp-content/uploads/2015/10/Movies-icon.png",SERIES
+#EXTBG: #87CEFA
+https://drive.google.com/uc?id=1EY9gzdPXr1ybZoK2-mxpIypFCyBwHCBz&export=download
