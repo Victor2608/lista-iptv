@@ -1,0 +1,13 @@
+#EXTM3U size="big"
+
+#EXTINF:0 type="playlist" tvg-logo="https://pt.seaicons.com/wp-content/uploads/2015/10/Movies-icon.png",CANAIS AO VIVO
+#EXTBG: #87CEFA
+https://drive.google.com/uc?id=1gPNS8vnsqziPH3OH7fO3qcH_tMj614oY&export=download
+
+#EXTINF:0 type="playlist" tvg-logo="https://pt.seaicons.com/wp-content/uploads/2015/10/Movies-icon.png",FILMES
+#EXTBG: #FF0000
+https://drive.google.com/uc?id=18m-C1I1i-Rf4Z7aof5_l47jsWkXlkWLV&export=download
+
+#EXTINF:0 type="playlist" tvg-logo="https://pt.seaicons.com/wp-content/uploads/2015/10/Movies-icon.png",SERIES
+#EXTBG: #FF0000
+https://drive.google.com/uc?id=1rsoOwSRZGFlxmT2xS4RbUJIjqrHf97m4&export=download
